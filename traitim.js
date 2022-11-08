@@ -138,7 +138,7 @@ for (i = e.length; i--;) {
     ctx.fillStyle = u.f;
     for (k = 0; k < u.trace.length; k++) {
         ctx.fillRect(u.trace[k].x, u.trace[k].y, 1, 1);
-        ctx.fillStyle = "rgb(132, 238, 238)";
+        ctx.fillStyle = "#FF5CA4";
     }
     
         ctx.fillStyle = "rgb(132, 238, 238)";
